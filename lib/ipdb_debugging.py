@@ -8,4 +8,3 @@ def plus_two(num):
     return num
 
 
-print(plus_two(2))
